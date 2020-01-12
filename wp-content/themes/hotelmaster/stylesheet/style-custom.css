@@ -2,11 +2,11 @@ body{ background: url('http://themes.goodlayers2.com/hotelmaster/wp-content/uplo
 html.ltie9 body, body{ min-width: 1140px; } .container{ max-width: 1140px; } .gdlr-caption-wrapper .gdlr-caption-inner{ max-width: 1140px; }
 .body-wrapper.gdlr-boxed-style{ max-width: 1220px; } .body-wrapper.gdlr-boxed-style .gdlr-header-wrapper{ max-width: 1220px; margin: 0px auto; }
 .body-wrapper.gdlr-header-transparent .gdlr-header-inner-overlay{ opacity: 0.00; }
-.gdlr-logo{ max-width: 320px; }
-.gdlr-logo{ margin-top: 37px; }
-.gdlr-logo{ margin-bottom: 41px; }
-.gdlr-navigation-wrapper, .header-style-3 .top-social-wrapper{ margin-top: 60px; }
-.gdlr-header-transparent .gdlr-navigation-wrapper .gdlr-main-menu > li > a{ padding-bottom: 23px; }
+.gdlr-logo{ max-width: 190px; }
+.gdlr-logo{ margin-top: 50px; }
+.gdlr-logo{ margin-bottom: 20px; }
+.gdlr-navigation-wrapper, .header-style-3 .top-social-wrapper{ margin-top: 50px; }
+.gdlr-header-transparent .gdlr-navigation-wrapper .gdlr-main-menu > li > a{ padding-bottom: 20px; }
 .body-wrapper.gdlr-header-transparent .gdlr-page-title-wrapper{ padding-top: 200px }
 .body-wrapper.gdlr-header-transparent .gdlr-page-title-wrapper{ padding-bottom: 80px }
 .footer-container{ padding-top: 60px }
@@ -161,8 +161,8 @@ table.style-2 tr:nth-child(even){ color: #949494; }
 .single .gdlr-room-price .gdlr-tail, .gdlr-classic-room .gdlr-room-price .gdlr-tail,.gdlr-medium-room .gdlr-room-price .gdlr-tail, .gdlr-room-service-unit{ color: #1abc9c; }
 .gdlr-modern-room .gdlr-room-detail{ color: #787878; }
 .gdlr-modern-room-new .gdlr-room-thumbnail-overlay{ background: #1f242c; background: rgba(31, 36, 44, 0.85); }
-.gdlr-medium-room .gdlr-hotel-room-info{ border-color: #cbbca9; }
-.gdlr-medium-room .gdlr-hotel-room-info{ color: #967f63; }
+.gdlr-medium-room .gdlr-hotel-room-info{ border-color: #000000; }
+.gdlr-medium-room .gdlr-hotel-room-info{ color: #1abc9c; }
 .gdlr-medium-room .gdlr-price-break-down{ color: #bdbdbd; }
 .price-breakdown-wrapper .price-breakdown-content{ background-color: #f3f3f3; }
 .price-breakdown-wrapper .price-breakdown-content, .price-breakdown-wrapper .price-breakdown-total{ border-color: #e6e6e6; }
@@ -174,8 +174,8 @@ table.style-2 tr:nth-child(even){ color: #949494; }
 .gdlr-reservation-bar .gdlr-price-summary-wrapper, .gdlr-price-summary-grand-total.gdlr-active, .gdlr-price-deposit-wrapper .gdlr-price-deposit-input span.gdlr-active{ color: #ffffff; }.gdlr-price-deposit-input .gdlr-radio-input { background: #ffffff; }.gdlr-price-deposit-input .gdlr-radio-input { border: 3px solid #ffffff !important; }
 .gdlr-price-summary-grand-total, .gdlr-service-price-summary-item, .gdlr-reservation-bar .gdlr-price-room-summary, .gdlr-reservation-bar .gdlr-price-room-summary-info, .gdlr-price-deposit-wrapper .gdlr-price-deposit-caption, .gdlr-price-deposit-wrapper .gdlr-price-deposit-input span{ color: #eae0d4; }
 .gdlr-reservation-bar .gdlr-price-summary-wrapper *{ border-color: #d0c1af; }
-.gdlr-price-summary-wrapper .gdlr-edit-booking-button{ background-color: #967f63; }
-.gdlr-price-summary-wrapper .gdlr-edit-booking-button{ border-color: #826e54; }
+.gdlr-price-summary-wrapper .gdlr-edit-booking-button{ background-color: #0e8e6c; }
+.gdlr-price-summary-wrapper .gdlr-edit-booking-button{ border-color: #046b48; }
 .gdlr-booking-failed, .gdlr-booking-complete, .gdlr-room-selection-complete{ background-color: #f5f5f5; }
 .gdlr-room-selection-complete .gdlr-room-selection-caption{ color: #8d8d8d; }
 .gdlr-room-selection-complete .gdlr-room-selection-caption{ border-bottom-color: #e5e5e5; }
@@ -190,29 +190,29 @@ body.hotelmaster-new-style .gdlr-price-deposit-input .gdlr-active .gdlr-radio-in
 .ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next, .ui-state-default, .ui-state-default:hover { color: #6a6a6a; }
 .ui-state-disabled .ui-state-default, .ui-state-disabled .ui-state-default:hover{ background-color: #eaeaea; }
 .ui-state-disabled .ui-state-default, .ui-state-disabled .ui-state-default:hover{ color: #aaaaaa; }
-.dp-highlight .ui-state-default, .dp-highlight .ui-state-highlight:hover{ background-color: #bea78b; }
+.dp-highlight .ui-state-default, .dp-highlight .ui-state-highlight:hover{ background-color: #1abc9c; }
 .dp-highlight .ui-state-default, .dp-highlight .ui-state-highlight:hover{ color: #ffffff; }
-.gdlr-booking-process-bar{ background-color: #967f63; }.gdlr-booking-process-bar .gdlr-booking-process:after{ border-left-color: #967f63; }
+.gdlr-booking-process-bar{ background-color: #1abc9c; }.gdlr-booking-process-bar .gdlr-booking-process:after{ border-left-color: #1abc9c; }
 .gdlr-booking-process-bar .gdlr-active{ color: #ffffff; }
-.gdlr-booking-process-bar{ color: #cab193; }
-.gdlr-booking-process-bar .gdlr-booking-process:before, body.hotelmaster-new-style .gdlr-booking-process-bar{ border-left-color: #b4a38f; }
-.gdlr-reservation-bar{ background-color: #bea78b; }
+.gdlr-booking-process-bar{ color: #dddddd; }
+.gdlr-booking-process-bar .gdlr-booking-process:before, body.hotelmaster-new-style .gdlr-booking-process-bar{ border-left-color: #ffffff; }
+.gdlr-reservation-bar{ background-color: #1abc9c; }
 .gdlr-reservation-bar .gdlr-reservation-bar-title, body.hotelmaster-v4-style .gdlr-reservation-bar-head-price .gdlr-tail{ color: #ffffff; }
-.gdlr-reservation-bar .gdlr-reservation-bar-title{ border-color: #b49a7b; }
+.gdlr-reservation-bar .gdlr-reservation-bar-title{ border-color: #129970; }
 .gdlr-reservation-bar .gdlr-reservation-field-title, .gdlr-reservation-people-title, .gdlr-reservation-time-title, .gdlr-reservation-time-sep { color: #ffffff; }
 .gdlr-reservation-bar input.gdlr-datepicker, .gdlr-reservation-bar .gdlr-combobox-wrapper select, .gdlr-reservation-bar .gdlr-combobox-wrapper select option, .gdlr-reservation-bar .gdlr-combobox-wrapper{ background-color: #ffffff; }
 body.hotelmaster-new-style .gdlr-reservation-bar .gdlr-combobox-wrapper, body.hotelmaster-new-style .gdlr-reservation-bar input.gdlr-datepicker, body.hotelmaster-v4-style .gdlr-reservation-bar *, .gdlr-hotel-availability-wrapper.gdlr-style-v4 .gdlr-reservation-field{ border-color: #e9e9e9; }
 .gdlr-reservation-bar input.gdlr-datepicker, .gdlr-reservation-bar .gdlr-combobox-wrapper select{ color: #999999; }.hotelmaster-v4-style .gdlr-reservation-field.gdlr-resv-datepicker .gdlr-reservation-field-title, .hotelmaster-v4-style .gdlr-reservation-people-amount .gdlr-reservation-field.gdlr-resv-combobox .gdlr-reservation-field-title, .hotelmaster-v4-style .gdlr-reservation-field.gdlr-resv-night .gdlr-reservation-field-title, .hotelmaster-v4-style .gdlr-reservation-field .gdlr-reservation-time-title, .gdlr-hotel-availability-wrapper.gdlr-style-v4 .gdlr-reservation-field-title{ color: #999999; }
 .gdlr-reservation-bar .gdlr-datepicker-wrapper:after, .gdlr-reservation-bar .gdlr-combobox-wrapper:after{ color: #000000; }
-.gdlr-reservation-bar .gdlr-reservation-bar-room-form{ background-color: #d0c1af; }
-.gdlr-reservation-room .gdlr-reservation-room-title{ color: #7b6549; }
-.gdlr-reservation-room{ color: #7b6549; }
+.gdlr-reservation-bar .gdlr-reservation-bar-room-form{ background-color: #1abc9c; }
+.gdlr-reservation-room .gdlr-reservation-room-title{ color: #ffffff; }
+.gdlr-reservation-room{ color: #ffffff; }
 .gdlr-reservation-room.gdlr-active .gdlr-reservation-room-title{ color: #ffffff; }
 .gdlr-reservation-room.gdlr-active .gdlr-reservation-room-info{ color: #ffffff; }
-.gdlr-reservation-room .gdlr-reservation-change-room{ color: #5b95ae; }
-.gdlr-reservation-bar .gdlr-reservation-bar-button{ background-color: #977b58; }
+.gdlr-reservation-room .gdlr-reservation-change-room{ color: #ffffff; }
+.gdlr-reservation-bar .gdlr-reservation-bar-button{ background-color: #0e9165; }
 .gdlr-reservation-bar .gdlr-reservation-bar-button{ color: #ffffff; }
-.gdlr-reservation-bar .gdlr-reservation-bar-button{ border-color: #7d6444; }
+.gdlr-reservation-bar .gdlr-reservation-bar-button{ border-color: #046b4c; }
 .gdlr-price-summary-hotel-branches{ background-color: #51392B; }
 .gdlr-price-summary-hotel-branches{ color: #ffffff; }
 .gdlr-personnel-item .personnel-item-inner{ background-color: #f5f5f5; }
