@@ -9,6 +9,7 @@ html.ltie9 body, body{ min-width: 1140px; } .container{ max-width: 1140px; } .gd
 .gdlr-header-transparent .gdlr-navigation-wrapper .gdlr-main-menu > li > a{ padding-bottom: 20px; }
 .body-wrapper.gdlr-header-transparent .gdlr-page-title-wrapper{ padding-top: 200px }
 .body-wrapper.gdlr-header-transparent .gdlr-page-title-wrapper{ padding-bottom: 80px }
+.gdlr-page-title-wrapper { background-image: url('http://localhost/tahmid/wp-content/uploads/2020/01/contact-bg.jpg'); }
 .footer-container{ padding-top: 60px }
 .footer-wrapper .widget.gdlr-widget{ margin-bottom: 60px }
 h1, h2, h3, h4, h5, h6, .gdlr-title-font{ font-family: "Open Sans"; }body.hotelmaster-button-new-style .gdlr-button, body.hotelmaster-button-new-style input[type="button"], body.hotelmaster-button-new-style input[type="submit"]{ font-family: "Open Sans"; }body.hotelmaster-button-v4-style .gdlr-button, body.hotelmaster-button-v4-style input[type="button"], body.hotelmaster-button-v4-style input[type="submit"]{ font-family: "Open Sans"; }
@@ -37,7 +38,7 @@ h6{ font-size: 16px; }
 .body-wrapper.gdlr-header-transparent .gdlr-header-inner-overlay{ background-color: #000000; }
 .gdlr-main-menu > li > a{ color: #7f7f7f; }
 .gdlr-main-menu > li:hover > a, .gdlr-main-menu > li.current-menu-item > a, .gdlr-main-menu > li.current-menu-ancestor > a{ color: #555555; opacity: 1; filter: alpha(opacity=100); }
-.gdlr-navigation-gimmick{ background-color: #aa8667; } .gdlr-menu-search-button-sep{ color: #aa8667; }
+.gdlr-navigation-gimmick{ background-color: #1abc9c; } .gdlr-menu-search-button-sep{ color: #1abc9c; }
 .gdlr-navigation-wrapper .gdlr-menu-search-button{ color: #565656; }
 .top-social-wrapper .social-icon a{ color: #ffffff; }
 .top-social-wrapper .social-icon a:hover{ color: #ffffff; }
