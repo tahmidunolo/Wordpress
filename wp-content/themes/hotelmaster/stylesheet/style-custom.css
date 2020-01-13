@@ -25,7 +25,7 @@ h3{ font-size: 32px; }
 h4{ font-size: 26px; }
 h5{ font-size: 21px; }
 h6{ font-size: 16px; }
-.gdlr-navigation-wrapper .gdlr-main-menu > li > a{ font-size: 13px; }
+.gdlr-navigation-wrapper .gdlr-main-menu > li > a{ font-size: 16px; }
 .gdlr-navigation-wrapper .gdlr-main-menu > li > a{ font-style: normal; }
 .gdlr-header-transparent .gdlr-page-title-wrapper .gdlr-page-title{ font-size: 43px; }
 .footer-wrapper .gdlr-widget-title{ font-size: 14px; }
@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6, .gdlr-title, .gdlr-title a{ color: #424242; }
 .gdlr-item-title-wrapper .gdlr-item-title{ color: #292929; border-color: #292929; }
 .gdlr-item-title-divider{ border-color: #1abc9c; }
 .gdlr-item-title-wrapper .gdlr-item-caption{ color: #9b9b9b; }
-body{ color: #808080; }
+body{ color: #7a7a7a; }
 a{ color: #1abc9c; }
 a:hover{ color: #0a826e; }
 body *{ border-color: #e5e5e5; }
